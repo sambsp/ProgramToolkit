@@ -33,4 +33,10 @@ Note: read, write, iterate
 
 
 
+### json
+
+#### Json.NET (newtonsoft)
+##### https://www.newtonsoft.com/json
+
+Popular high-performance JSON framework for .NET
 
